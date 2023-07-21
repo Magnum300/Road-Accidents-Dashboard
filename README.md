@@ -1,4 +1,5 @@
 # Road-Accidents-Dashboard
+
 **About the Dataset**
    1. This dataset is specifically for the UK region, obtained from Kaggle
    2. It has over half a million records collected over the time period 2019–2022.
